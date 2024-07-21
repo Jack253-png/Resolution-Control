@@ -16,7 +16,7 @@ public abstract class GameRendererMixin {
 	
 	@Inject(at = @At("RETURN"), method = "renderWorld")
 	private void onRenderWorldEnd(CallbackInfo callbackInfo) {
-		ResolutionControlMod.getInstance().setShouldScale(false);
+		ResolutionControlMod.getInstance().setShouldScale(true);
 	}
 
 
