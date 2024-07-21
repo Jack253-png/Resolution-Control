@@ -2,7 +2,7 @@
 	<img width=256px src="GitHub/logo.png" />
 </p>
 
-# ResolutionControl+
+# ResolutionControl +
 
 ResolutionControl+ is a fork of [Resolution Control](https://github.com/juliand665/Resolution-Control)
 with additional functionality.
